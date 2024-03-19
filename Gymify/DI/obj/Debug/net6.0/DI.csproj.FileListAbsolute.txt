@@ -1,0 +1,12 @@
+C:\Projects\Gymify\Gymify\DI\bin\Debug\net6.0\DI.deps.json
+C:\Projects\Gymify\Gymify\DI\bin\Debug\net6.0\DI.dll
+C:\Projects\Gymify\Gymify\DI\bin\Debug\net6.0\DI.pdb
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.csproj.AssemblyReference.cache
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.AssemblyInfoInputs.cache
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.AssemblyInfo.cs
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.csproj.CoreCompileInputs.cache
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.dll
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\refint\DI.dll
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\DI.pdb
+C:\Projects\Gymify\Gymify\DI\obj\Debug\net6.0\ref\DI.dll
