@@ -66,3 +66,8 @@ C:\Projects\Gymify\Gymify\Gymify\obj\Debug\net6.0\Gymify.genruntimeconfig.cache
 C:\Projects\Gymify\Gymify\Gymify\obj\Debug\net6.0\ref\Gymify.dll
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Entities.dll
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Entities.pdb
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\BaselineTypeDiscovery.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Lamar.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Lamar.Microsoft.DependencyInjection.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\LamarCodeGeneration.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll

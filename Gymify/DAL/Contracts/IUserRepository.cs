@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Contracts
 {
-    internal interface IUserRepository : IRepository<User, Guid>
+    public interface IUserRepository : IRepository<User, Guid>
     {
 
     }

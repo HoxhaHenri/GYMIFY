@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Contracts
 {
-    internal interface IRepository<TEntity, TKey> where TEntity : class
+    public interface IRepository<TEntity, TKey> where TEntity : class
     {
         TEntity GetById(TKey id);
         IEnumerable<TEntity> GetAll();
