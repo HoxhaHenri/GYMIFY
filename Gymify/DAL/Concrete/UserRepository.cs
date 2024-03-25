@@ -19,5 +19,10 @@ namespace DAL.Concrete
             var user = context.Where(x => x.GuidIdentifier == id).FirstOrDefault();
             return user;
         }
+        public override void Remove(User entity)
+        {
+            context.Attach(entity);
+            entity.Status = "Deleted";
+        }
     }
 }

@@ -10,3 +10,5 @@ C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\Domain.dll
 C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
