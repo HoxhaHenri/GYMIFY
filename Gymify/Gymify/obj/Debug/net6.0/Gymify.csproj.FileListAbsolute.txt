@@ -71,3 +71,10 @@ C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Lamar.dll
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Lamar.Microsoft.DependencyInjection.dll
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\LamarCodeGeneration.dll
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DAL.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Domain.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DTO.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Domain.pdb
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DAL.pdb
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DTO.pdb

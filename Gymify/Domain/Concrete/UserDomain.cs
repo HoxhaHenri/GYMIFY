@@ -54,5 +54,33 @@ namespace Domain.Concrete
             };
             return userDTO;
         }
+        public UserDTO GetUserByUsername(string username)
+        {
+            var user = userRepository.GetUserByUsername(username);
+            if (user == null)
+            {
+                return null;
+            }
+            var userDTO = new UserDTO()
+            {
+                UserId = user.GuidIdentifier,
+                Username = user.Username,
+                Email = user.Email,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                PhoneNumber = user.PhoneNumber,
+                Role = user.Role
+            };
+            return userDTO;
+        }
+        public bool CheckPassword(UserDTO user, string password)
+        {
+            var passwordToCheck = userRepository.GetPassword(user.UserId);
+            if(passwordToCheck != null)
+            {
+                return passwordToCheck.Equals(password);
+            }
+            return false;
+        }
     }
 }

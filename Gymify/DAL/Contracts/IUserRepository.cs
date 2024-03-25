@@ -9,6 +9,7 @@ namespace DAL.Contracts
 {
     public interface IUserRepository : IRepository<User, Guid>
     {
-
+        User GetUserByUsername(string username);
+        string GetPassword(Guid id);
     }
 }

@@ -12,5 +12,7 @@ namespace Domain.Contracts
     {
         IList<UserDTO> GetAllUsers();
         UserDTO GetUserById(Guid id);
+        UserDTO GetUserByUsername(string username);
+        bool CheckPassword(UserDTO user, string password);
     }
 }

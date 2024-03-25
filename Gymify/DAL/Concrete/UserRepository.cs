@@ -24,5 +24,13 @@ namespace DAL.Concrete
             context.Attach(entity);
             entity.Status = "Deleted";
         }
+        public User GetUserByUsername(string username)
+        {
+            return context.Where(x => x.Username.Equals(username)).FirstOrDefault();
+        }
+        public string GetPassword(Guid id)
+        {
+            return context.Find(id).Password;
+        }
     }
 }

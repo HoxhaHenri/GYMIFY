@@ -12,3 +12,10 @@ C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\ref\Domain.dll
 C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
 C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\DAL.dll
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\DTO.dll
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\Entities.dll
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\DAL.pdb
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\DTO.pdb
+C:\Projects\Gymify\Gymify\Domain\bin\Debug\net6.0\Entities.pdb
+C:\Projects\Gymify\Gymify\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
