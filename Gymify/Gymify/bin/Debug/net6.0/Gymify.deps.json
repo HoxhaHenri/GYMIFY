@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Gymify/1.0.0": {
         "dependencies": {
+          "DI": "1.0.0",
           "Domain": "1.0.0",
           "Entities": "1.0.0",
           "Lamar": "8.0.1",
@@ -788,6 +789,18 @@
           "DAL.dll": {}
         }
       },
+      "DI/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Lamar": "8.0.1",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.5",
+          "Microsoft.EntityFrameworkCore": "6.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5"
+        },
+        "runtime": {
+          "DI.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "dependencies": {
           "DAL": "1.0.0",
@@ -1441,6 +1454,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -30,7 +30,7 @@ namespace DAL.Concrete
         }
         public string GetPassword(Guid id)
         {
-            return context.Find(id).Password;
+            return context.Where(x => x.GuidIdentifier.Equals(id)).FirstOrDefault().Password;
         }
     }
 }

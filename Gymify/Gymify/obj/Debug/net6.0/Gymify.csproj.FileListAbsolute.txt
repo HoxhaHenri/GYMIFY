@@ -78,3 +78,5 @@ C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DTO.dll
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\Domain.pdb
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DAL.pdb
 C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DTO.pdb
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DI.dll
+C:\Projects\Gymify\Gymify\Gymify\bin\Debug\net6.0\DI.pdb

@@ -1547,6 +1547,23 @@
           "bin/placeholder/DAL.dll": {}
         }
       },
+      "DI/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Lamar": "8.0.1",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.5",
+          "Microsoft.EntityFrameworkCore": "6.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5"
+        },
+        "compile": {
+          "bin/placeholder/DI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DI.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -4386,6 +4403,11 @@
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
     },
+    "DI/1.0.0": {
+      "type": "project",
+      "path": "../DI/DI.csproj",
+      "msbuildProject": "../DI/DI.csproj"
+    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
@@ -4404,6 +4426,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DI >= 1.0.0",
       "Domain >= 1.0.0",
       "Entities >= 1.0.0",
       "Lamar >= 8.0.1",
@@ -4452,6 +4475,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Projects\\Gymify\\Gymify\\DI\\DI.csproj": {
+              "projectPath": "C:\\Projects\\Gymify\\Gymify\\DI\\DI.csproj"
+            },
             "C:\\Projects\\Gymify\\Gymify\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Projects\\Gymify\\Gymify\\Domain\\Domain.csproj"
             },
